@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+outputs/
+
+
+
+# Optional local settings
+.idea/
+.vscode/
+

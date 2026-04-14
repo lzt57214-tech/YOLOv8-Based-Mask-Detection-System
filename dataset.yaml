@@ -1,0 +1,10 @@
+path: mark-datas
+train:
+  - images/train
+val:
+  - images/val
+
+names:
+  0: unmask
+  1: masked
+
